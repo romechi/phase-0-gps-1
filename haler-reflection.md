@@ -1,4 +1,4 @@
-_**Anthony Haler's Reflection**_
+__**Anthony Haler's Reflection**__
 - What Git concepts were you struggling with prior to the GPS session?
 </br>`The difference between merging and committing is the main concept I wasn't 
 fully grasping.`
